@@ -5,7 +5,7 @@ Absolutely! Here's the **ready-to-use text** you can include for each of your **
 
 ---
 
-## 📘 **1. Sales Trend Over Years in Every Category
+## 📘 **1. Sales Trend Over Years in Every Category**
 
 Annual Sales Trend by Category 
 
@@ -18,7 +18,7 @@ Annual Sales Trend by Category
 > * **Office Supplies** maintained **relatively stable sales**, but with less aggressive growth compared to other categories.
 >
 > This high-level view helps us understand how each category contributes to the company's long-term sales trajectory.
-
+![{28469727-F5E8-4574-BB56-511E6A5FB4D4}](https://github.com/user-attachments/assets/510e1aaa-bad4-4ba6-8e80-4c20588a958f)
 ---
 
 ## 📘 **2. Month-wise Sales by Category (Line Chart)**
@@ -32,10 +32,11 @@ Annual Sales Trend by Category
 > * **Technology sales** show **strong seasonal peaks**, often spiking in Q4 (October–December), likely due to year-end purchases or promotions.
 > * **Furniture sales** reveal **irregular fluctuations**, indicating volatility or external influences like promotions or supply constraints.
 > * **Office Supplies** trend is more **stable**, though there are occasional mid-year surges.
->
+
 > Understanding month-wise patterns helps identify **seasonality** and **peak buying periods**, which can guide inventory and marketing strategies.
 
----
+![{EB596CBE-1D69-474D-9156-BCDF7818021D}](https://github.com/user-attachments/assets/a9460b27-cca0-4877-832f-be2d992cc4d2)
+
 
 ## 📘 **3. Comparison of Sales in Various Categories by Year**
 
@@ -50,6 +51,7 @@ Annual Sales Trend by Category
 > * **Furniture**, although slightly trailing in sales volume, showed **recovery after a dip in 2016, highlighting potential for rebound.
 >
 > These side-by-side comparisons enable easy benchmarking and help prioritize which categories warrant strategic focus.
+![{17360810-EB5A-4E56-921C-5368F672BB2F}](https://github.com/user-attachments/assets/da310c7d-6aa8-498f-9cdc-bcd2731f2589)
 
 ---
 
@@ -73,6 +75,7 @@ Annual Sales Trend by Category
 >
 > ✅ Overall, the analysis reveals a clear sales growth path driven by Technology, with opportunities for strategic refinement in the other categories.
 
+![{197DE6C4-170E-4183-B8C6-3870E34B4D2B}](https://github.com/user-attachments/assets/125f663b-41e9-4012-99b7-68ca5fd1a99b)
 
 
 
