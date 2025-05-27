@@ -77,5 +77,15 @@ Annual Sales Trend by Category
 
 ![{197DE6C4-170E-4183-B8C6-3870E34B4D2B}](https://github.com/user-attachments/assets/125f663b-41e9-4012-99b7-68ca5fd1a99b)
 
+🔍 Key Insights
+Technology is the fastest-growing category, with strong year-end peaks.
+Office Supplies maintain steady but limited growth.
+Furniture shows volatility but potential for recovery.
+
+📦 Tools Used
+Tableau Desktop
+Superstore Sample Dataset.
+
+
 
 
